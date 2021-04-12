@@ -45,3 +45,15 @@ body
 {
     padding: 10px;
 }
+i
+{
+    text-align: center;
+    background-color: black;
+    color: aqua;
+    width: 100%;
+    transition: 1s;
+}
+i:hover
+{
+    color:red;
+}
